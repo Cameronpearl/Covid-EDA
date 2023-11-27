@@ -1,4 +1,5 @@
-# Covid-EDA
+# W.I.P   
+# Covid-EDA   
 Using SQLServer to showcase SQL skills using current COVID data and creating a dashboard in Tableau
 
 Link to Dataset [Click Here](https://ourworldindata.org/covid-deaths)   
